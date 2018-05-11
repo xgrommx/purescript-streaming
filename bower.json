@@ -1,0 +1,26 @@
+{
+  "name": "purescript-streaming",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.3.0",
+    "purescript-console": "^3.0.0",
+    "purescript-lazy": "^3.0.0",
+    "purescript-generics-rep": "^5.4.0",
+    "purescript-transformers": "^3.6.0",
+    "purescript-mmorph": "^3.0.0",
+    "purescript-aff": "^4.1.1",
+    "purescript-io": "^5.0.0",
+    "purescript-functors": "^2.2.0",
+    "purescript-sequences": "^1.0.3",
+    "purescript-foldl": "xgrommx/purescript-foldl",
+    "purescript-refs": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
